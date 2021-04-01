@@ -1,0 +1,1 @@
+Very basic javascript exercies. Meant to pass out to students or people struggling with basic concepts to be able to work through and run the testing suite to confirm they did it correctly.# JavascriptExercises
